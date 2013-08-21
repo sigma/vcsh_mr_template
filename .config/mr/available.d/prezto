@@ -1,0 +1,2 @@
+[Projects/git/prezto]
+checkout = git clone --recursive git@github.com:sigma/prezto.git
