@@ -1,2 +1,2 @@
-[.config/vcsh/repo.d/mr.git]
+[.config/vcsh/repo.d/zsh.git]
 checkout = vcsh clone git@github.com:sigma/dotzsh.git
