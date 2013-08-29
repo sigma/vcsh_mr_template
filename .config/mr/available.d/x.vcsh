@@ -1,0 +1,2 @@
+[.config/vcsh/repo.d/x.git]
+checkout = vcsh clone git@github.com:sigma/dotx.git x
