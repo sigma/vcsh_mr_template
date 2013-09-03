@@ -1,0 +1,5 @@
+[.config/awesome]
+checkout = git clone git@github.com:sigma/awesome-configs.git awesome
+
+[.config/awesome/vicious]
+checkout = git clone git@github.com:sigma/vicious.git
