@@ -1,2 +1,4 @@
 [.config/vcsh/repo.d/git.git]
-checkout = vcsh clone git@github.com:sigma/dotgit.git git
+checkout = [ `whoami` == "hodiquey" ] &&
+         vcsh clone -b vmware git@github.com:sigma/dotgit.git git ||
+         vcsh clone git@github.com:sigma/dotgit.git git
