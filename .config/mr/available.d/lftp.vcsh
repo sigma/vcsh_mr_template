@@ -1,2 +1,2 @@
 [.config/vcsh/repo.d/lftp.git]
-checkout = vcsh clone git@github.com:sigma/dotlftp.git lftp
+checkout = vcsh clone git://github.com/sigma/dotlftp.git lftp

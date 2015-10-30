@@ -1,2 +1,2 @@
 [.config/vcsh/repo.d/zile.git]
-checkout = vcsh clone git@github.com:sigma/dotzile.git zile
+checkout = vcsh clone git://github.com/sigma/dotzile.git zile
