@@ -1,2 +1,2 @@
 [.emacs.d]
-checkout = git clone git://github.com/sigma/dotemacs .emacs.d
+checkout = git clone git://github.com/sigma/dotemacs --recursive .emacs.d
