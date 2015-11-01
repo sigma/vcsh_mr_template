@@ -1,2 +1,5 @@
 [.config/vcsh/repo.d/tmux.git]
 checkout = vcsh clone git://github.com/sigma/dottmux.git tmux
+
+[.tmux/plugins/tpm]
+checkout = git clone https://github.com/tmux-plugins/tpm
