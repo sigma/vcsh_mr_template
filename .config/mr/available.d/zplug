@@ -1,0 +1,2 @@
+[.zplug]
+checkout = git clone git://github.com/zplug/zplug --recursive .zplug
